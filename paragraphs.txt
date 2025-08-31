@@ -1,0 +1,50 @@
+Easy: The sun is bright today.
+Easy: I like to read books.
+Easy: She has a red dress.
+Easy: We went to the zoo.
+Easy: My dog loves to run.
+Easy: It is raining outside.
+Easy: He ate an apple.
+Easy: The cat is sleeping.
+Easy: They play in the park.
+Easy: This is my pencil.
+Easy: I can jump high.
+Easy: She sings well.
+Easy: The baby is crying.
+Easy: This bag is heavy.
+Easy: We are good friends.
+Easy: He runs very fast.
+Easy: The stars shine at night.
+Easy: I see a bird.
+Easy: It is a big tree.
+Easy: Mom cooks food.
+Medium: Children are playing happily in the playground.
+Medium: The quick brown fox jumps over the lazy dog.
+Medium: My school is organizing a science exhibition.
+Medium: Reading books helps to improve our knowledge.
+Medium: A rainbow has seven different colors.
+Medium: The teacher explained the lesson clearly.
+Medium: Travelling by train is very comfortable.
+Medium: He solved the puzzle in ten minutes.
+Medium: They celebrated the festival with joy.
+Medium: The doctor advised him to rest.
+Medium: We planned a picnic on Sunday.
+Medium: She bought vegetables from the market.
+Medium: The movie was interesting and fun.
+Medium: Our team won the football match.
+Medium: I forgot my notebook at home.
+Hard: Artificial intelligence is transforming how humans interact with technology across industries.
+Hard: The biodiversity of the rainforest is essential for ecological balance and climate regulation.
+Hard: Economic policies often require a careful balance between growth and inflation control.
+Hard: Quantum computing utilizes principles of quantum mechanics to solve complex problems.
+Hard: Philosophical questions about consciousness remain unresolved in scientific discourse.
+Hard: Cryptographic algorithms ensure secure communication in digital environments.
+Hard: Understanding genetics requires knowledge of DNA replication and mutation mechanisms.
+Hard: The theory of relativity revolutionized classical mechanics and reshaped astrophysics.
+Hard: Cybersecurity threats necessitate advanced detection and response systems.
+Hard: Linguistics explores the structure, usage, and evolution of human language.
+Hard: The constitution provides the fundamental framework for democratic governance.
+Hard: Ethical considerations are crucial in biomedical engineering research.
+Hard: Renewable energy sources are vital for sustainable environmental development.
+Hard: Data science integrates statistics, machine learning, and data visualization.
+Hard: Globalization has significantly impacted cultural exchange and economic policies. hello Ashutosh Kuldeep Chaitanya 1 Chetan Hello
